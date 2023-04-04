@@ -51,7 +51,8 @@ MOVIE_SITES = {
     "peternorth": "https://www.peternorth.com/en/dvd",
     "tsfactor": "https://www.tsfactor.com/en/movie/",
     "wicked": "https://www.wicked.com/en/movie",
-    "zerotolerancefilms": "https://www.zerotolerancefilms.com/en/movie"
+    "zerotolerancefilms": "https://www.zerotolerancefilms.com/en/movie",
+    "falconstudios": "https://www.falconstudios.com/en/movie"
 }
 
 # a dict of sites (`sitename_pretty` from the API) which should set the value
